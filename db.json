@@ -26,27 +26,33 @@
     },
     {
       "title": "Sandwitch",
-      "body": "sand, witch, spices",
+      "ingredients": "sand, witch, spices",
       "author": "Kelly johson",
       "id": 10
     },
     {
       "title": "salad juice",
-      "body": "cabage, water, milk",
+      "ingredients": "cabage, water, milk",
       "author": "ali sally",
       "id": 14
     },
     {
       "title": "Egg Roll",
-      "body": "flour, milk, egg",
+      "ingredients": "flour, milk, egg",
       "author": "Sam joe",
       "id": 15
     },
     {
       "title": "food",
-      "body": "meat. ham ,jelly",
+      "ingredients": "meat. ham ,jelly",
       "author": "Sam joe",
       "id": 18
+    },
+    {
+      "title": "Sweet Potatoes",
+      "ingredients": "potatoes, jamacian sauce",
+      "author": "Dani Daniel",
+      "id": 20
     }
   ]
 }
